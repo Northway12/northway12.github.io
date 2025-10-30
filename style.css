@@ -1,0 +1,59 @@
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ 
+ /* Container holding the galaxy image and the logo texts */
+ .galaxy {
+    position: relative;
+    text-align: center;
+    color: white;
+    margin: 0px;
+  }
+  
+  /*groove logo on homepage*/
+  .groove {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: Audiowide;
+  } 
+/*project text on homepage before groove*/
+  .project {
+    position: absolute;
+    top: 42%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    font-family: Allan;
+    letter-spacing: 2px;
+
+  } 
+
+  .navbar ul{
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+  }
+  .navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin: 0px;
+    font-family: Trade Winds;
+  }
+  .navbar li{
+    float: left;
+    margin: 0px;
+  }
+
+  .navbar a:hover{
+    color: rgb(230, 195, 43);
+  }
