@@ -22,16 +22,6 @@
     font-family: Audiowide;
   } 
 /*project text on homepage before groove*/
-  .project {
-    position: absolute;
-    top: 42%;
-    left: 36%;
-    transform: translate(-50%, -50%);
-    font-size: 12px;
-    font-family: Allan;
-    letter-spacing: 2px;
-
-  } 
 
   .navbar ul{
     list-style-type: none;
